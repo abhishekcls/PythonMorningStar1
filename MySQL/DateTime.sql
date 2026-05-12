@@ -1,0 +1,1 @@
+select curdate(),current_date(),current_time(),curtime(),current_timestamp()
